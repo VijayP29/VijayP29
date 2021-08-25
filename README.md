@@ -1,7 +1,9 @@
-##Hi there 👋 I'm Vijay Patidar.
+## Hi there 👋 I'm Vijay Patidar.
 
-###A self taught developer and stock analyst.
+### A self taught developer and stock analyst.
 
+---
+<br />
 <!--
 **VijayP29/VijayP29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
