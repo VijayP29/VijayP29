@@ -16,14 +16,14 @@
 
 #### My github stats....
 <br />
-<img src="https://komarev.com/ghpvc/?username=vijayp29">
+<img src="https://komarev.com/ghpvc/?username=patidarV1jay">
 <br />
-<img src="https://github-readme-stats.vercel.app/api?username=vijayp29">
+<img src="https://github-readme-stats.vercel.app/api?username=patidarV1jay">
 <br />
-<img src="http://github-readme-streak-stats.herokuapp.com?user=vijayp29&theme=dark&hide_border=true" >
+<img src="http://github-readme-streak-stats.herokuapp.com?user=patidarV1jay&theme=dark&hide_border=true" >
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayp29">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patidarV1jay">
 <br />
-<img src="https://github-profile-trophy.vercel.app/?username=vijayp29">
+<img src="https://github-profile-trophy.vercel.app/?username=patidarV1jay">
 <br />
 
