@@ -23,6 +23,12 @@ I specialize in building intuitive, high-performance mobile apps with **React Na
 
 ---
 
+### 📊 Contribution Calendar  
+
+[![Vijay's GitHub Contribution Calendar](https://github.com/patidarV1jay/patidarV1jay/raw/output/github-contribution-grid-snake.svg)](https://github.com/patidarV1jay)  
+
+---
+
 ### 📊 GitHub Stats  
 <br />
 <div align="center">
