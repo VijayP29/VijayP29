@@ -23,33 +23,7 @@ I specialize in building intuitive, high-performance mobile apps with **React Na
 
 ---
 
-### 📊 Contribution Calendar  
 
-[![Vijay's GitHub Contribution Calendar](https://github.com/patidarV1jay/patidarV1jay/raw/output/github-contribution-grid-snake.svg)](https://github.com/patidarV1jay)  
-
----
-
-### 📊 GitHub Stats  
-<br />
-<div align="center">
-
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=patidarV1jay&style=for-the-badge)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patidarV1jay&show_icons=true&theme=radical&hide_border=true)  
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=patidarV1jay&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patidarV1jay&layout=compact&theme=radical&hide_border=true)  
-
-</div>
-
----
-
-### 🏆 Achievements  
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=patidarV1jay&theme=radical&no-frame=true&column=4)
-
-</div>
-
----
 
 ### 🌱 What I'm Currently Working On:  
 - 📱 Developing scalable React Native apps.  
